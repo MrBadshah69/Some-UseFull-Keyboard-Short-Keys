@@ -110,3 +110,4 @@ Windows + E - open file explorer
 Windows + D - go to desktop
 Windows + M - minimize all windows
 Windows + S - search
+Thank For read
